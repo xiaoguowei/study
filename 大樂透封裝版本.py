@@ -1,4 +1,5 @@
 import random #加個注釋
+#再加個注釋
 class Pig(object):
     def __init__(self): #初始化
         self.number=list(range(1,50)) #產生1~49數字
