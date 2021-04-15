@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=example
+Comment=My application which does this
+Icon=
+Exec=bash -c "/home/pi/Desktop/example.sh"
+Type=Application
+Encoding=UTF-8
+Terminal=true
+Categories=None;

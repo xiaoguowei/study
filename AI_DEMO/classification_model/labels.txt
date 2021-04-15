@@ -1,0 +1,3 @@
+0 MIC
+1 RULE
+2 OTHER
